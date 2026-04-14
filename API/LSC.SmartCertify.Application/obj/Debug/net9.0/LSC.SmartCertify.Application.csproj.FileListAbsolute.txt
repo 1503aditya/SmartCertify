@@ -1,0 +1,16 @@
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.deps.json
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.dll
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.pdb
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Domain.dll
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Domain.pdb
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.csproj.AssemblyReference.cache
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.AssemblyInfoInputs.cache
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.AssemblyInfo.cs
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.csproj.CoreCompileInputs.cache
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.sourcelink.json
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.Smar.23547949.Up2Date
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.dll
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\refint\LSC.SmartCertify.Application.dll
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.pdb
+C:\Adi\DotNet\SmartCertify\API\LSC.SmartCertify.Application\obj\Debug\net9.0\ref\LSC.SmartCertify.Application.dll
